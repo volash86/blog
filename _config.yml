@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: iCocora 
+subtitle: Code, Life, Drive
+description: 探讨编程的世界
 keywords:
-author: John Doe
+author: John Kwok 
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://icocora.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
